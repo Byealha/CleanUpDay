@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ff23a59da45f211489e5b3fa7f4bf0b3
+guid: 9fa5ec47eed177f4399c3be378eb97e1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4037323491269660584
-    second: Room_Background_0
+      213: 3757898231036184318
+    second: Player_Tug_Idle_03_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 200
+  spritePixelsToUnits: 250
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Room_Background_0
+      name: Player_Tug_Idle_03_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 3840
-        height: 2160
+        y: 87
+        width: 2392
+        height: 1324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8503883ecab88f7c0800000000000000
-      internalID: -4037323491269660584
+      spriteID: ef60bfae78cb62430800000000000000
+      internalID: 3757898231036184318
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Room_Background_0: -4037323491269660584
+      Player_Tug_Idle_03_0: 3757898231036184318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
