@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 99aeed64269b2cb478eca09986f410a0
+guid: a8199be6023ad5d4e9b04ffd3cac27d9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 957940465665167878
-    second: Shampoo_0
+      213: 4287168340566132351
+    second: Leash_Area_After_0
+  - first:
+      213: -7684921240213847096
+    second: Leash_Area_After_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,10 +51,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1500
+  spritePixelsToUnits: 215
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shampoo_0
+      name: Leash_Area_After_0
       rect:
         serializedVersion: 2
-        x: 2192
-        y: 974
-        width: 780
-        height: 1827
+        x: 1630
+        y: 0
+        width: 2210
+        height: 862
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 602d1f337c94b4d00800000000000000
-      internalID: 957940465665167878
+      spriteID: f76cebf24e41f7b30800000000000000
+      internalID: 4287168340566132351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leash_Area_After_1
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 793
+        width: 288
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3033639dca95590800000000000000
+      internalID: -7684921240213847096
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Shampoo_0: 957940465665167878
+      Leash_Area_After_0: 4287168340566132351
+      Leash_Area_After_1: -7684921240213847096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
