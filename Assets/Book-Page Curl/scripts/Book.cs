@@ -824,4 +824,14 @@ public class Book : MonoBehaviour
             yield return delay;
         }
     }
+
+    public bool IsPageIntroFinished(int pageIndex)
+    {
+        InitializePageFrameState();
+
+        if (pageIndex < 0 || pageIndex >= pageIntroFinished.Length)
+            return true;
+
+        return pageIntroFinished[pageIndex];
+    }
 }
