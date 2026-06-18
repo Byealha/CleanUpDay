@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 143554786c4099645aae0472845425c1
+guid: 26fb7fd56ba719d4484fc3903ed02125
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -623679080638662014
-    second: Player_Tug_Idle_02_0
+      213: -5665260453552529801
+    second: "\uD130\uADF8_02_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 250
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Tug_Idle_02_0
+      name: "\uD130\uADF8_02_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2200
+        width: 2202
         height: 1361
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28ab0b83e2f3857f0800000000000000
-      internalID: -623679080638662014
+      spriteID: 77edee122a3f061b0800000000000000
+      internalID: -5665260453552529801
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_Tug_Idle_02_0: -623679080638662014
+      "\uD130\uADF8_02_0": -5665260453552529801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
